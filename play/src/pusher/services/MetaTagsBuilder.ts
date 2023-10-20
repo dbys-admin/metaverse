@@ -14,10 +14,10 @@ import { ADMIN_API_URL } from "../enums/EnvironmentVariable";
 import { adminService } from "./AdminService";
 
 export const MetaTagsDefaultValue: RequiredMetaTagsData = {
-    title: "WorkAdventure",
-    description: "Create your own digital office, Metaverse and meet online with the world.",
-    author: "WorkAdventure team",
-    provider: "WorkAdventure",
+    title: "DBYs Coding Academy",
+    description: "Welcome To DBYs Coding Academy Metaverse!",
+    author: "DBYs Coding Academy",
+    provider: "DBYs Coding Academy",
     favIcons: [
         {
             rel: "icon",
@@ -191,9 +191,9 @@ export const MetaTagsDefaultValue: RequiredMetaTagsData = {
             type: "image/png",
         },
     ],
-    appName: "WorkAdventure",
-    shortAppName: "WA",
-    themeColor: "#000000",
+    appName: "DBYs Coding Academy",
+    shortAppName: "DBYs",
+    themeColor: "#259DE0",
     cardImage: "https://workadventu.re/images/general/logo-og.png",
 };
 
